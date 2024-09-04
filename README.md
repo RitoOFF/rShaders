@@ -84,5 +84,8 @@ Hello, today I present to you this tool allowing you to directly change your gam
 
 ![image](https://github.com/user-attachments/assets/f4e34210-041c-4afd-8279-4ff5af2b24ac)
 
+> Write Y for all the questions since you followed put 3 part
+![image](https://github.com/user-attachments/assets/b7c7d0f7-af59-42b5-aff4-722ee46be719)
 
+> Lunch your game and enjoy :)
 
