@@ -91,7 +91,7 @@ func confirm(prompt string) bool {
 func unlockWindowsApps(dir string) {
 	for {
 		fmt.Println("[RITO SHADERS INIT]: Attempting to unlock WindowsApps folder...")
-		cmd := exec.Command("powershell", "-command", "start-process", "-file", "takeOwnership.bat", "-verb", "runas", "-Wait")
+		cmd := exec.Command("powershell", "-command", "start-process", "-file", "claimedOwnership.bat", "-verb", "runas", "-Wait")
 		cmd.Dir = dir
 		cmd.Run()
 
