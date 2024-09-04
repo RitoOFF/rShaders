@@ -11,7 +11,7 @@ if %errorLevel% == 0 (
     icacls "%ProgramFiles%\WindowsApps" /grant *S-1-3-4:F /t /c /l /q
     echo [92mSTEP 2/2 DONE![0m
     
-    echo DONE! > claimedOwnership.txt
+    echo DONE! > claimedOwnership.bat
     ) else (
         echo YOU MUST RUN THIS AS ADMIN!
         pause
