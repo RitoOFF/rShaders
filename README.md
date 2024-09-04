@@ -74,29 +74,15 @@ Hello, today I present to you this tool allowing you to directly change your gam
 
 > This second part is made to modify the permission and allow you to modify your game files
 
-## Sprint Hit
+## PART 3:
 
-![blurrys-java-pvp_12](https://github.com/user-attachments/assets/89f4c6bd-8a77-40a4-bb58-40c0f0677eee)
+> Click drop your materials in this folders :
 
-> When a player sprints while on the ground, they can land a sprint hit. Landing a sprint hit deals extra knockback to the player.
-> - **Knocks the player 3.5 blocks back**
+ ![image](https://github.com/user-attachments/assets/1fb2c0e5-cc5b-4a46-91ed-547c2367a31e)
 
-## OffHand Swap
+> Start the rShaders.exe
 
-![blurrys-java-pvp_15](https://github.com/user-attachments/assets/2d9cf129-9c2d-4c04-a5f3-8f8833f50337)
+![image](https://github.com/user-attachments/assets/f4e34210-041c-4afd-8279-4ff5af2b24ac)
 
-> Just like Java, you can swap certain items into your offhand by right clicking (LT/L2 on console). The items that can be swapped are:
->   - **Totems**
->   - **Arrows**
 
-## Arc Punch
 
-| Bow                       | Enchant                       | Motion                                                      
-|--------------------------------|--------------------------|--------------------------
-| `Bow`            | Punch   | 2 
-
-> I didn't make a video for the punch arc but it is beautiful and present.
-
---------------------------------------------------------
-
-This plugin was designed by me and inspired by an addon for the idea and texture pack: https://mcpedl.com/blurrys-java-pvp/
