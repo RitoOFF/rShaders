@@ -18,18 +18,22 @@ Hello, today I present to you this tool allowing you to directly change your gam
 
 ## PART 1 :
 > Go to C:
-![image](https://github.com/user-attachments/assets/70a06714-0ee6-4937-88af-d6466b8aabda)
+> ![image](https://github.com/user-attachments/assets/70a06714-0ee6-4937-88af-d6466b8aabda)
+
 > Progammes
-![image](https://github.com/user-attachments/assets/ae142852-9815-4dfc-a24e-db094e2880e4)
+>![image](https://github.com/user-attachments/assets/ae142852-9815-4dfc-a24e-db094e2880e4)
+
 > Click on "..."
- ![image](https://github.com/user-attachments/assets/d7b4d360-46ac-4eec-aec3-a7e955c9c315)
-> And Option
-![image](https://github.com/user-attachments/assets/9b1bfde6-6f20-4cf7-8ae5-a7e6b34b8644)
-> After on "Affichage"
-![image](https://github.com/user-attachments/assets/6d4d271e-c83e-4218-b24e-e53889963803)
+> ![image](https://github.com/user-attachments/assets/d7b4d360-46ac-4eec-aec3-a7e955c9c315)
+
+>And Option
+> ![image](https://github.com/user-attachments/assets/9b1bfde6-6f20-4cf7-8ae5-a7e6b34b8644)
+>After on "Affichage"
+>![image](https://github.com/user-attachments/assets/6d4d271e-c83e-4218-b24e-e53889963803)
+
 > To finish on " Afficher les fichiers, dossiers et lecteurs cachés and Aplliquer
-![image](https://github.com/user-attachments/assets/92fefd56-89a2-4f70-a86e-158550053e8c)
-![image](https://github.com/user-attachments/assets/ee61a3a3-0dce-43dc-b552-d666cf4bc247)
+> ![image](https://github.com/user-attachments/assets/92fefd56-89a2-4f70-a86e-158550053e8c)
+> ![image](https://github.com/user-attachments/assets/ee61a3a3-0dce-43dc-b552-d666cf4bc247)
 
 > This first step allows you to see the protected folders
 
