@@ -95,7 +95,7 @@ func unlockWindowsApps(dir string) {
 		cmd.Dir = dir
 		cmd.Run()
 
-		if _, err := os.Stat(filepath.Join(dir, "claimedOwnership.txt")); err == nil {
+		if _, err := os.Stat(filepath.Join(dir, "claimedOwnership.bat")); err == nil {
 			break
 		} else {
 			fmt.Println("[RITO SHADERS INIT]: UAC prompt not accepted. Retrying...")
